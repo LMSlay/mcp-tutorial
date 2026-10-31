@@ -319,6 +319,7 @@ Documentation, tutorials, and learning materials.
 
 - [modelcontextprotocol/docs](https://github.com/modelcontextprotocol/docs) - Official MCP documentation
 - [leerob/directories](https://github.com/leerob/directories) - Find rules and MCP servers
+- [LMSlay/tubetext-mcp](https://github.com/LMSlay/tubetext-mcp#start-with-a-bounded-youtube-use-case) - Hosted MCP walkthrough for a bounded YouTube captions task, with input, cost and export-provenance checks.
 
 ---
 
